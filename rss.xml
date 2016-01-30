@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Olivier CORRE]]></title>
         <description><![CDATA[Olivier CORRE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olivier-corre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 17:49:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 17:51:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olivier-corre/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b49ba81-25e3-423c-8089-c68d78e2a8f4.jpg">]]></description>
-            <link>undefined533d18ef-d72a-4389-ba1a-2bafc452a8b8/index.html</link>
+            <link>https://thegrid.ai/olivier-corre/533d18ef-d72a-4389-ba1a-2bafc452a8b8/index.html</link>
             <guid isPermaLink="false">533d18ef-d72a-4389-ba1a-2bafc452a8b8</guid>
-            <pubDate>Sat, 30 Jan 2016 17:48:35 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 17:51:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
